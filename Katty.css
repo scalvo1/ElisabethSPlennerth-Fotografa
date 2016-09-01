@@ -1,0 +1,55 @@
+body {
+	font-family: "Roboto";
+}
+.container-home {
+	background-color: black;
+}
+.container-home .tittle {
+	text-align: center;
+	color: white;
+	font-size:40px;
+	margin: 0;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.container-home .center-pills {
+	display: inline-block;
+}
+.container-home nav a {
+	color: white;
+	font-size: 18px;
+}
+.container-home nav .active-nav-item a {
+	color: #8B008B;
+	border-bottom-color: #8B008B;
+	border-bottom-style: solid;
+	border-radius: 0px;
+}
+.container-home nav a:hover {
+	background-color: inherit;
+	border-bottom-color: #8B008B;
+	border-bottom-style: solid;
+	border-radius: 0px;
+	color: black;
+}
+
+.banner {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.box-home-title {
+	font-size: 20px;
+	color: white;
+	font-weight: bold;
+}
+.container-boxes a {
+	color: white;
+	text-decoration: none;
+}
+.photo-texts {
+	color: white;
+	margin-top: 20px;
+}
+.box-big-img {
+	width: 100%;
+}
