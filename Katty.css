@@ -1,8 +1,6 @@
-body {
-	font-family: "Roboto";
-}
 .container-home {
 	background-color: black;
+	font-family: "Roboto";
 }
 .container-home .tittle {
 	text-align: center;
@@ -11,6 +9,7 @@ body {
 	margin: 0;
 	padding-top: 20px;
 	padding-bottom: 20px;
+	font-family: 'Meddon', cursive;
 }
 .container-home .center-pills {
 	display: inline-block;
@@ -25,12 +24,12 @@ body {
 	border-bottom-style: solid;
 	border-radius: 0px;
 }
-.container-home nav a:hover {
+.container-home nav li a:hover {
 	background-color: inherit;
 	border-bottom-color: #8B008B;
 	border-bottom-style: solid;
 	border-radius: 0px;
-	color: black;
+	color: white;
 }
 
 .banner {
